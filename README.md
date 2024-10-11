@@ -1,2 +1,3 @@
 # .github
-Super special README.md
+
+This is just GitHub fancy magic I guess~
