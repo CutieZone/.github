@@ -6,4 +6,4 @@ I guess~
 
 ### Contact
 
-Ideally, [creature@the.cutie.zone](mailto:creature@the.cutie.zone), but anywhere in [cutie.zone/contact](https://cutie.zone/contact) will do!
+Ideally, [creature@the.cutie.zone](mailto:creature@the.cutie.zone), but anywhere text-based [cutie.zone/social](https://cutie.zone/social) will do!
